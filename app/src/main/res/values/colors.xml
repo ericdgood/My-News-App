@@ -3,4 +3,7 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="pillar">#FF565656</color>
+    <color name="bkg">#22565656</color>
+    <color name="blk_text">#000000</color>
 </resources>
